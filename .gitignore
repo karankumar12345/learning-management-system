@@ -1,6 +1,6 @@
 # Ignore node_modules and environment files
 Backend/node_modules/
 Backend/.env
-lmsfro/node_modules/
-lmsfro/.env
-/lmsfro
+frontend/node_modules/
+frontend/.env
+
